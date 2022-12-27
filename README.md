@@ -1,5 +1,5 @@
-# web-page-design-part-02
-css code
+<!--# web-page-design-part-02--!>
+<!--css code--!>
 
 <style>
 	* {
@@ -166,4 +166,5 @@ css code
 		color: white;
 	}
 </style>
+
 
